@@ -194,6 +194,9 @@ The dashboard provides:
 The dashboard makes it easier to understand the overall situation
 without manually reviewing every row of the dataset.
 
+<img width="1696" height="903" alt="Dashboard" src="https://github.com/user-attachments/assets/c59a7077-6731-462b-bd3c-2b662c2b97bc" />
+
+
 ## 🔮 Forecasting Model
 
 The project also contains a forecasting section for future new COVID-19
@@ -208,6 +211,9 @@ The forecast included in the workbook estimates:
 
 The forecast indicates a continued downward trend based on the
 historical values in the dataset.
+
+<img width="1546" height="740" alt="Forecasting Model Chart" src="https://github.com/user-attachments/assets/16271a39-81ee-4b06-bdf7-e09fd1f061c9" />
+
 
 > **Note:** The forecast is a model-based estimate and should not be
 > treated as an actual prediction of future COVID-19 cases. Real-world
@@ -292,18 +298,8 @@ The project could be improved by:
 -   Comparing multiple forecasting models and evaluating their accuracy.
 
 ## 📷 Project Preview
-
-Add screenshots of your Excel dashboard to this section after uploading
-them to GitHub.
-
-Example:
-
-``` markdown
-![COVID-19 Dashboard](dashboard.png)
-```
-
-You can upload a screenshot named `dashboard.png` to the repository and
-it will appear here.
+<img width="1546" height="740" alt="Forecasting Model Chart" src="https://github.com/user-attachments/assets/eb9c3465-d10a-4a0e-9a80-a534c2c186a6" />
+<img width="1696" height="903" alt="Dashboard" src="https://github.com/user-attachments/assets/8e2ad325-e5b2-46d6-9bb5-2d426abb4e69" />
 
 ## 👨‍💻 Project Type
 
