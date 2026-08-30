@@ -15,8 +15,9 @@ data-analysis and visualization features such as:
 -   PivotCharts
 -   Slicers / Filters
 -   Interactive Dashboard
--   Trend Analysis
 -   Forecasting
+
+<img width="1696" height="903" alt="Dashboard" src="https://github.com/user-attachments/assets/4ac883bc-7295-46ae-a803-354a9466f9b3" />
 
 The goal is to transform raw COVID-19 data into meaningful summaries and
 visualizations that make trends and comparisons easier to understand.
@@ -68,27 +69,6 @@ The dataset covers **2020 to 2025** and contains observations for Indian
 States and Union Territories.
 
 ## 📈 Key Analysis
-
-The year-wise totals in the supplied dataset show the following pattern:
-
-  -----------------------------------------------------------------------
-  Year             New Cases         Deaths      Recovered   Active Cases
-                                                     Cases    at Year End
-  ----------- -------------- -------------- -------------- --------------
-  2020            10,292,112      4,679,041              0      5,613,071
-
-  2021            34,265,213      2,071,089      1,843,597     30,350,527
-
-  2022             9,840,804         71,480      4,043,534      5,725,790
-
-  2023               333,257          2,342        289,543         41,372
-
-  2024                13,842              6         13,515            321
-
-  2025                 6,495              0          6,495              0
-  -----------------------------------------------------------------------
-
-### Major Findings
 
 -   **2021** has the highest recorded number of new COVID-19 cases in
     the dataset, with **34,265,213 cases**.
