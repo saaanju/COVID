@@ -120,9 +120,6 @@ The project includes analysis of:
 6.  **Recovered Cases**
 7.  **Case Fatality Rate**
 
-PivotTables provide the summarized data used as the basis for several
-PivotCharts.
-
 ## 📊 PivotCharts
 
 The project contains multiple charts to visually represent the analysis:
@@ -132,29 +129,41 @@ The project contains multiple charts to visually represent the analysis:
 Shows the distribution of new COVID-19 cases across States/UTs and
 years.
 
+<img width="1077" height="807" alt="Covid Data 2020-2025 Chart" src="https://github.com/user-attachments/assets/5b440fd4-a7b4-4dec-8ff2-ea4bedf34de8" />
+
 ### Year-wise Recovery Rate
 
 Shows the change in the supplied recovery-rate values from 2020 to 2025.
+
+<img width="1371" height="537" alt="Recovery Rate 2020-2025 Chart" src="https://github.com/user-attachments/assets/7dc39432-5552-4980-91b4-1aae054dba94" />
 
 ### State-wise Recovery Rate
 
 Compares recovery-rate values across different States and Union
 Territories.
 
+<img width="1316" height="592" alt="Statewise Recovery Rate 2020-2025" src="https://github.com/user-attachments/assets/6a692898-8bc3-401c-9e7d-159b39e5a598" />
+
 ### Case Fatality Rate
 
 Shows the change in the supplied case-fatality-rate values over the
 years.
+
+<img width="907" height="361" alt="Fatality Rate 2020-2025" src="https://github.com/user-attachments/assets/69acc279-0852-4aea-9a16-80092bd47e12" />
 
 ### Death Counts
 
 Shows the year-wise death trend, including the large peak in 2021 and
 the decline in later years.
 
+<img width="896" height="610" alt="Death Count 2020-2025" src="https://github.com/user-attachments/assets/e3ebd32f-69f0-43cd-a379-9f14ff347c7b" />
+
 ### Year-wise COVID Pie/Doughnut Chart
 
 Shows the relative distribution of new cases, active cases, recovered
 cases, and deaths in the summarized data.
+
+<img width="911" height="512" alt="Covid Pie-Chart" src="https://github.com/user-attachments/assets/74614796-9f3a-442a-a89a-cd5a46172756" />
 
 ## 🖥️ Dashboard
 
