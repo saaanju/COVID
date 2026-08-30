@@ -17,8 +17,6 @@ data-analysis and visualization features such as:
 -   Interactive Dashboard
 -   Forecasting
 
-<img width="1696" height="903" alt="Dashboard" src="https://github.com/user-attachments/assets/4ac883bc-7295-46ae-a803-354a9466f9b3" />
-
 The goal is to transform raw COVID-19 data into meaningful summaries and
 visualizations that make trends and comparisons easier to understand.
 
