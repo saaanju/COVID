@@ -268,10 +268,10 @@ The project could be improved by:
 -   Comparing multiple forecasting models and evaluating their accuracy.
 
 ## 📷 Project Preview
-<img width="1696" height="903" alt="Dashboard" src="https://github.com/user-attachments/assets/ca4f0e97-3be8-4d91-ae5b-2263822932b6" />
-<img width="1546" height="740" alt="Forecasting Model Chart" src="https://github.com/user-attachments/assets/abf3cbb0-4f89-4f15-8b90-e0221849d87e" />
-<img width="1077" height="807" alt="Covid Data 2020-2025 Chart" src="https://github.com/user-attachments/assets/7c2208f8-64f3-4313-a99c-48a726022363" />
-<img width="1208" height="642" alt="West Bengal Graph" src="https://github.com/user-attachments/assets/404a2139-978e-41c9-9f6f-12173849e426" />
+<img width="1500" height="900" alt="Dashboard" src="https://github.com/user-attachments/assets/ca4f0e97-3be8-4d91-ae5b-2263822932b6" />
+<img width="1500" height="900" alt="Forecasting Model Chart" src="https://github.com/user-attachments/assets/abf3cbb0-4f89-4f15-8b90-e0221849d87e" />
+<img width="1500" height="900" alt="Covid Data 2020-2025 Chart" src="https://github.com/user-attachments/assets/7c2208f8-64f3-4313-a99c-48a726022363" />
+<img width="1500" height="900" alt="West Bengal Graph" src="https://github.com/user-attachments/assets/404a2139-978e-41c9-9f6f-12173849e426" />
 
 
 ## 👨‍💻 Project Type
