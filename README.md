@@ -129,41 +129,29 @@ The project contains multiple charts to visually represent the analysis:
 Shows the distribution of new COVID-19 cases across States/UTs and
 years.
 
-<img width="1077" height="807" alt="Covid Data 2020-2025 Chart" src="https://github.com/user-attachments/assets/5b440fd4-a7b4-4dec-8ff2-ea4bedf34de8" />
-
 ### Year-wise Recovery Rate
 
 Shows the change in the supplied recovery-rate values from 2020 to 2025.
-
-<img width="1371" height="537" alt="Recovery Rate 2020-2025 Chart" src="https://github.com/user-attachments/assets/7dc39432-5552-4980-91b4-1aae054dba94" />
 
 ### State-wise Recovery Rate
 
 Compares recovery-rate values across different States and Union
 Territories.
 
-<img width="1316" height="592" alt="Statewise Recovery Rate 2020-2025" src="https://github.com/user-attachments/assets/6a692898-8bc3-401c-9e7d-159b39e5a598" />
-
 ### Case Fatality Rate
 
 Shows the change in the supplied case-fatality-rate values over the
 years.
-
-<img width="907" height="361" alt="Fatality Rate 2020-2025" src="https://github.com/user-attachments/assets/69acc279-0852-4aea-9a16-80092bd47e12" />
 
 ### Death Counts
 
 Shows the year-wise death trend, including the large peak in 2021 and
 the decline in later years.
 
-<img width="896" height="610" alt="Death Count 2020-2025" src="https://github.com/user-attachments/assets/e3ebd32f-69f0-43cd-a379-9f14ff347c7b" />
-
 ### Year-wise COVID Pie/Doughnut Chart
 
 Shows the relative distribution of new cases, active cases, recovered
 cases, and deaths in the summarized data.
-
-<img width="911" height="512" alt="Covid Pie-Chart" src="https://github.com/user-attachments/assets/74614796-9f3a-442a-a89a-cd5a46172756" />
 
 ## 🖥️ Dashboard
 
@@ -183,8 +171,6 @@ The dashboard provides:
 The dashboard makes it easier to understand the overall situation
 without manually reviewing every row of the dataset.
 
-<img width="1696" height="903" alt="Dashboard" src="https://github.com/user-attachments/assets/c59a7077-6731-462b-bd3c-2b662c2b97bc" />
-
 
 ## 🔮 Forecasting Model
 
@@ -200,9 +186,6 @@ The forecast included in the workbook estimates:
 
 The forecast indicates a continued downward trend based on the
 historical values in the dataset.
-
-<img width="1546" height="740" alt="Forecasting Model Chart" src="https://github.com/user-attachments/assets/16271a39-81ee-4b06-bdf7-e09fd1f061c9" />
-
 
 > **Note:** The forecast is a model-based estimate and should not be
 > treated as an actual prediction of future COVID-19 cases. Real-world
@@ -287,8 +270,11 @@ The project could be improved by:
 -   Comparing multiple forecasting models and evaluating their accuracy.
 
 ## 📷 Project Preview
-<img width="1546" height="740" alt="Forecasting Model Chart" src="https://github.com/user-attachments/assets/eb9c3465-d10a-4a0e-9a80-a534c2c186a6" />
-<img width="1696" height="903" alt="Dashboard" src="https://github.com/user-attachments/assets/8e2ad325-e5b2-46d6-9bb5-2d426abb4e69" />
+<img width="1696" height="903" alt="Dashboard" src="https://github.com/user-attachments/assets/ca4f0e97-3be8-4d91-ae5b-2263822932b6" />
+<img width="1546" height="740" alt="Forecasting Model Chart" src="https://github.com/user-attachments/assets/abf3cbb0-4f89-4f15-8b90-e0221849d87e" />
+<img width="1077" height="807" alt="Covid Data 2020-2025 Chart" src="https://github.com/user-attachments/assets/7c2208f8-64f3-4313-a99c-48a726022363" />
+<img width="1208" height="642" alt="West Bengal Graph" src="https://github.com/user-attachments/assets/404a2139-978e-41c9-9f6f-12173849e426" />
+
 
 ## 👨‍💻 Project Type
 
@@ -310,7 +296,7 @@ This project demonstrates practical skills in:
 The main project file is:
 
 ``` text
-Covid Dataset(2).xlsx
+Covid Dataset.xlsx
 ```
 
 ## ⭐ Conclusion
