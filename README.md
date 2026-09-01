@@ -4,7 +4,7 @@ An Excel-based data analysis project that explores COVID-19 cases,
 deaths, recoveries, active cases, recovery rates, case fatality rates,
 and future case forecasts across Indian States and Union Territories.
 
-## 📌 Project Overview
+##  Project Preview
 
 This project was created using **Microsoft Excel** to analyze a COVID-19
 dataset covering the period **2020--2025**. The project uses Excel
@@ -17,10 +17,15 @@ data-analysis and visualization features such as:
 -   Interactive Dashboard
 -   Forecasting
 
+<img width="1500" height="900" alt="Dashboard" src="https://github.com/user-attachments/assets/ca4f0e97-3be8-4d91-ae5b-2263822932b6" />
+<img width="1500" height="900" alt="Forecasting Model Chart" src="https://github.com/user-attachments/assets/abf3cbb0-4f89-4f15-8b90-e0221849d87e" />
+<img width="1500" height="900" alt="Covid Data 2020-2025 Chart" src="https://github.com/user-attachments/assets/7c2208f8-64f3-4313-a99c-48a726022363" />
+<img width="1500" height="900" alt="West Bengal Graph" src="https://github.com/user-attachments/assets/404a2139-978e-41c9-9f6f-12173849e426" />
+
 The goal is to transform raw COVID-19 data into meaningful summaries and
 visualizations that make trends and comparisons easier to understand.
 
-## 🎯 Objectives
+##  Objectives
 
 -   Analyze COVID-19 cases across different States and Union
     Territories.
@@ -32,7 +37,7 @@ visualizations that make trends and comparisons easier to understand.
 -   Use historical data to create a simple forecasting model for future
     cases.
 
-## 📊 Dataset
+##  Dataset
 
 The main dataset is stored in the **`Data`** worksheet.
 
@@ -66,7 +71,7 @@ It contains **198 records** and the following 8 columns:
 The dataset covers **2020 to 2025** and contains observations for Indian
 States and Union Territories.
 
-## 📈 Key Analysis
+##  Key Analysis
 
 -   **2021** has the highest recorded number of new COVID-19 cases in
     the dataset, with **34,265,213 cases**.
@@ -80,7 +85,7 @@ States and Union Territories.
 -   By 2025, the dataset records **6,495 new cases, 6,495 recovered
     cases, and 0 active cases**.
 
-## 🗺️ State-wise Analysis
+##  State-wise Analysis
 
 The project also compares COVID-19 cases across States and Union
 Territories.
@@ -103,7 +108,7 @@ The top States/UTs by total new cases in the supplied dataset are:
 These comparisons help identify the States/UTs with larger recorded case
 totals within the project dataset.
 
-## 🔄 PivotTable Analysis
+##  PivotTable Analysis
 
 PivotTables were used to summarize the raw data and make comparisons
 easier.
@@ -118,7 +123,7 @@ The project includes analysis of:
 6.  **Recovered Cases**
 7.  **Case Fatality Rate**
 
-## 📊 PivotCharts
+##  PivotCharts
 
 The project contains multiple charts to visually represent the analysis:
 
@@ -151,7 +156,7 @@ the decline in later years.
 Shows the relative distribution of new cases, active cases, recovered
 cases, and deaths in the summarized data.
 
-## 🖥️ Dashboard
+##  Dashboard
 
 The **Dashboard** worksheet combines the major visualizations into a
 single view.
@@ -170,7 +175,7 @@ The dashboard makes it easier to understand the overall situation
 without manually reviewing every row of the dataset.
 
 
-## 🔮 Forecasting Model
+##  Forecasting Model
 
 The project also contains a forecasting section for future new COVID-19
 cases.
@@ -190,7 +195,7 @@ historical values in the dataset.
 > outbreaks can be affected by new variants, vaccination, public-health
 > measures, testing, reporting practices, and many other factors.
 
-## 📁 Workbook Structure
+##  Workbook Structure
 
 The Excel workbook contains the following main worksheets:
 
@@ -204,7 +209,7 @@ The Excel workbook contains the following main worksheets:
   `Forcast`               Forecast-related calculations
   `New Case Forcast`      New-case forecast and confidence bounds
 
-## 🛠️ Tools Used
+##  Tools Used
 
 -   **Microsoft Excel**
 -   Excel Tables
@@ -214,7 +219,7 @@ The Excel workbook contains the following main worksheets:
 -   Excel Dashboard
 -   Excel Forecasting / Trend Analysis
 
-## 📌 Project Workflow
+##  Project Workflow
 
 ``` text
 Raw COVID-19 Dataset
@@ -234,7 +239,7 @@ Interactive Dashboard
 Final Insights & Report
 ```
 
-## ⚠️ Data Limitations
+##  Data Limitations
 
 This project is intended as an **academic Excel data-analysis project**
 and the results are based on the supplied workbook.
@@ -254,7 +259,7 @@ death total in 2020 and zero recorded recoveries in 2020. Therefore:
 -   The project demonstrates data-analysis techniques rather than
     providing an official epidemiological assessment.
 
-## 💡 Future Improvements
+##  Future Improvements
 
 The project could be improved by:
 
@@ -267,14 +272,7 @@ The project could be improved by:
 -   Moving the dashboard to Power BI for more advanced interactivity.
 -   Comparing multiple forecasting models and evaluating their accuracy.
 
-## 📷 Project Preview
-<img width="1500" height="900" alt="Dashboard" src="https://github.com/user-attachments/assets/ca4f0e97-3be8-4d91-ae5b-2263822932b6" />
-<img width="1500" height="900" alt="Forecasting Model Chart" src="https://github.com/user-attachments/assets/abf3cbb0-4f89-4f15-8b90-e0221849d87e" />
-<img width="1500" height="900" alt="Covid Data 2020-2025 Chart" src="https://github.com/user-attachments/assets/7c2208f8-64f3-4313-a99c-48a726022363" />
-<img width="1500" height="900" alt="West Bengal Graph" src="https://github.com/user-attachments/assets/404a2139-978e-41c9-9f6f-12173849e426" />
-
-
-## 👨‍💻 Project Type
+##  Project Type
 
 **Academic / College Excel Data Analysis Project**
 
@@ -289,7 +287,7 @@ This project demonstrates practical skills in:
 -   Basic Forecasting
 -   Data Interpretation
 
-## 📄 Files
+##  Files
 
 The main project file is:
 
@@ -297,7 +295,7 @@ The main project file is:
 Covid Dataset.xlsx
 ```
 
-## ⭐ Conclusion
+##  Conclusion
 
 This project demonstrates how Microsoft Excel can be used to transform a
 raw COVID-19 dataset into meaningful information through PivotTables,
